@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color: silver;
+    width: 40%;
+    margin: 15% auto;
+    border-radius: 5px;
+    padding: 2%;
+}
+section div, h1{
+    margin: 20px auto;
+    width: 90%;
+}
+section div div{
+    display: flex;
+    justify-content: space-between;
+}
+div div{
+    text-align: left;
+}
